@@ -5,6 +5,7 @@ configuration:
   topics: ["java", "test"]
   apps: ["azure-oidc"]
   extensions: ["gh-azure-oidc"]
+  workflow: "hello-world-input.yaml"
 secrets:
   secret1:
     description: desc
