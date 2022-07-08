@@ -7,8 +7,8 @@ configuration:
   extensions: ["gh-azure-oidc"]
 secrets:
   secret1:
-  	description: desc
-  	required: yes
+    description: desc
+    required: yes
     environment: test
   secret2:
   	description: desc
