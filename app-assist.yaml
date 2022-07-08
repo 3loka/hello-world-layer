@@ -4,3 +4,4 @@ name: Service
 configuration:
   topics: ["java", "test"]
   apps: ["azure-oidc"]
+  workflow: "hello-world.yaml"
