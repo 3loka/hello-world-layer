@@ -11,5 +11,5 @@ secrets:
     required: yes
     environment: test
   secret2:
-  	description: desc
-  	required: yes
+    description: desc
+    required: yes
