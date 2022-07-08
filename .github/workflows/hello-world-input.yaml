@@ -1,0 +1,9 @@
+on:
+  workflow_dispatch:
+    inputs:
+      Name:
+        required: false
+        description: 'Description for name'
+      Age
+        required: false
+        description: 'Description for Age'
