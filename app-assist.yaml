@@ -10,7 +10,7 @@ secrets:
   secret1:
     description: desc
     required: yes
-    environment: test
+#     environment: test
   secret2:
     description: desc
     required: yes
